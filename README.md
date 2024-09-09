@@ -19,8 +19,8 @@
 
 ## Build Status
 
-master | 3.3.5 | wotlk_classic
-:------------: | :------------: | :------------:
+wotlk_classic
+ :------------:
 [![wotlk_classic GCC Build status](https://github.com/TrinityCore/TrinityCore/actions/workflows/gcc-build.yml/badge.svg?branch=wotlk_classic&event=push)](https://github.com/TrinityCore/TrinityCore/actions?query=workflow%3AGCC+branch%3Awotlk_classic+event%3Apush)
 [![Coverity Scan Build Status](https://scan.coverity.com/projects/435/badge.svg)](https://scan.coverity.com/projects/435) | [![Coverity Scan Build Status](https://scan.coverity.com/projects/4656/badge.svg)](https://scan.coverity.com/projects/4656) |
 
