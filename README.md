@@ -17,7 +17,7 @@
 
 ## Info
 
-The goal of this is to revive Wotlk_Clasic Trinity Core sicne the master chose to drop the branch. I refuse to let it die or be worked on by someone for profit as shown on youtube.
+The goal of this is to revive Wotlk_Clasic Trinity Core since the master chose to drop the branch. I refuse to let it die or be worked on by someone for profit as shown on youtube.
 Full upload goal is for 9/13/24. 
 
 
