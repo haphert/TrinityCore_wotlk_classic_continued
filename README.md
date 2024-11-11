@@ -17,8 +17,8 @@
 
 ## Info
 
-The goal of this is to revive Wotlk_Clasic Trinity Core since the master chose to drop the branch. I refuse to let it die or be worked on by someone for profit as shown on youtube.
-I'm running out of time before my big life changes, but will try to leave the database work soon and the one class worked on so far is Paladin spells.
+I have lost all time to work on this project :( 
+I now have new IRL Priorities. I might come back one day, but never got nearly where wanted to be with it.
 
 
 ## Build Status
